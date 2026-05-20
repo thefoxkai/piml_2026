@@ -23,8 +23,8 @@ from the training trajectories it has seen.
 
 Usage
 -----
-  python excercises/pinn_multi_traj.py --n_train 10
-  python excercises/pinn_multi_traj.py --n_train 50 --seed 7
+  python excercises/pinn/pinn_multi_traj.py --n_train 10
+  python excercises/pinn/pinn_multi_traj.py --n_train 50 --seed 7
 """
 
 import os, sys, argparse
